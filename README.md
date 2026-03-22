@@ -1,2 +1,2 @@
-# eclimateactionandcomputers
-Official website for Ebri-Climate Actions and Computers — delivering climate action, renewable energy (solar) services, capacity training, computer services, and community development initiatives in Nigeria.
+# eclimateactions
+Official website for EClimate Actions, is a climate-focused Non-Governmental Organization based in Obubra, Cross River State, Nigeria. We are committed to promoting renewable energy, climate education and community-driven environmental sustainability. We empower communities to take practical climate actions that reduce carbon emissions and strengthen resilience to climate change impacts.
